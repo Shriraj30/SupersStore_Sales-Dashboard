@@ -59,7 +59,7 @@ The following preprocessing steps were performed before visualization:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Images/Dashboard.png)
 
 ---
 
