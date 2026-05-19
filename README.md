@@ -59,7 +59,7 @@ The following preprocessing steps were performed before visualization:
 
 ## Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="YOUR_IMAGE_LINK_HERE">
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
